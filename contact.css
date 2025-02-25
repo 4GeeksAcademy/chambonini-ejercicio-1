@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+nav{
+    border: 1px solid red;
+    position:fixed;
+    width: 100%;
+    /* background-color:white; */
+    top:0;
+    height: 100px;
+}
+nav ul{
+  list-style:none;
+  color: black;
+}
+
+.banner{
+border: 0px solid blue;
+
+}
